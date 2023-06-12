@@ -21,4 +21,7 @@ The aim of our project is to study and analyse the given datatset about details 
 * While evaluating the features we faced contradicting results. The output after variance threshold revealed that review column had less variability but recursive feature selection said it still holds importance. We decided to include it since from a user’s perspective reviews are essential.
 * The Nearest neighbour algorithms provides us with suitable recommendation, however whether they are the best or not this cannot be evaluated.
 
+# Flaws:
+Project lacks user interface as well as evaluation which will be done further down the line
+
 
