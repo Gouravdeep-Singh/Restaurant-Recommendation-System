@@ -61,7 +61,7 @@ After:
 
 ![13](https://github.com/Gouravdeep-Singh/Restaurant-Recommendation-System/assets/104523395/c30d8cbe-2600-41be-bebc-f09987e27028)
 
-#Recommendations
+# Recommendations
 
 ![14](https://github.com/Gouravdeep-Singh/Restaurant-Recommendation-System/assets/104523395/33306465-ec2a-4392-a049-6d0a81798708)
 
